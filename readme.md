@@ -16,14 +16,6 @@ Pull requests are welcome. Thank you. 💙
 
 # Research Papers 📄
 
-# compilers
-
-
-- [an incremental approach to compiler construction 📄](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
-
-- [dynamo: a transparent dynamic optimization system 📄](https://www.cs.virginia.edu/kim/courses/cs771/papers/bala00dynamo.pdf)
-
-
 # garbage collection
 
 
@@ -124,6 +116,16 @@ Pull requests are welcome. Thank you. 💙
 
 
 - [systems approaches to tackling configuration errors: a survey 📄](http://opera.ucsd.edu/paper/csur15-survey.pdf)
+
+
+# compilers
+
+
+- [an incremental approach to compiler construction 📄](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
+
+- [dynamo: a transparent dynamic optimization system 📄](https://www.cs.virginia.edu/kim/courses/cs771/papers/bala00dynamo.pdf)
+
+- [15: calculating correct compilers 📄](http://www.cs.nott.ac.uk/%7Epszgmh/ccc.pdf)
 
 
 # virtualisation
@@ -230,4 +232,40 @@ Pull requests are welcome. Thank you. 💙
 
 - [15: a naturalist account of the limited, and hence reasonable, effectiveness of mathematics in physics 📄](https://arxiv.org/abs/1506.03733)
 
- 
+- [the derivative of a regular type is its type of one-hole contexts 📄](http://strictlypositive.org/diff.pdf)
+
+
+# functional programming
+
+
+- [1988: how to make ad-hoc polymorphism less ad hoc 📄](https://pdfs.semanticscholar.org/cc7f/2242dba6f09023128897762d07517f13ba4a.pdf)
+
+- [1994: lazy functional state threads 📄](https://www.microsoft.com/en-us/research/wp-content/uploads/1994/06/lazy-functional-state-threads.pdf)
+  accessible introduction to the machinery underneath ST and IO
+
+- [02: the countdown problem 📄](http://www.cs.nott.ac.uk/%7Epszgmh/countdown.pdf)
+
+- [06: functional program to solve sudoku 📄](http://www.cs.tufts.edu/%7Enr/cs257/archive/richard-bird/sudoku.pdf)
+
+- [07: infinite sets that admit fast exhaustive search 📄](http://www.cs.bham.ac.uk/%7Emhe/papers/exhaustive.pdf)
+
+- [08: applicative programming with effects 📄](http://www.staff.city.ac.uk/%7Eross/papers/Applicative.html)
+
+- [08: data types a la carte 📄](http://www.cs.ru.nl/%7EW.Swierstra/Publications/DataTypesALaCarte.pdf)
+
+- [trees that grow 📄](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/trees-that-grow.pdf)
+
+- [super compilation by evaluation 📄](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/supercomp-by-eval.pdf)
+
+- [breaking through the normalisation barrier: a self-interpreter for f-omega 📄](http://compilers.cs.ucla.edu/popl16/)
+
+- [typed self-evaluation via intensional type functions 📄](http://compilers.cs.ucla.edu/popl17/)
+
+- [freer monads, more extensible effects 📄](http://okmij.org/ftp/Haskell/extensible/more.pdf)
+
+
+# concurrency
+
+
+- [07: beautiful concurrency 📄](https://www.microsoft.com/en-us/research/publication/beautiful-concurrency/)
+
