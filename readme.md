@@ -13,6 +13,10 @@ Pull requests are welcome. Thank you. 💙
 - [research in production](https://github.com/evnm/research-in-production)
 - [awesome deep learning papers](https://github.com/endymecy/awesome-deeplearning-resources)
 - [summaries and notes on deep learning research papers](https://github.com/dennybritz/deeplearning-papernotes)
+- [lobal](https://www.lobal.io/)
+- [google brain team](https://research.google.com/teams/brain/)
+- [inspire](https://inspirehep.net/)
+- [PLOS](https://www.plos.org/)
 
 # Research Papers 📄
 
