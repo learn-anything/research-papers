@@ -1,4 +1,4 @@
-# Free research papers all can learn from 📚
+# Free research papers all can learn from 🚀
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting research papers one can use to learn new things and discover new insights. 🔭
 
@@ -6,7 +6,15 @@ The number before the book name stands for the year in which the research paper 
 
 Pull requests are welcome. Thank you. 💙
 
-# Research Papers
+#### Related websites / repositories 
+
+- [papers we love](http://paperswelove.org/)
+- [arxiv sanity preserver](http://www.arxiv-sanity.com/)
+- [research in production](https://github.com/evnm/research-in-production)
+- [awesome deep learning papers](https://github.com/endymecy/awesome-deeplearning-resources)
+- [summaries and notes on deep learning research papers](https://github.com/dennybritz/deeplearning-papernotes)
+
+# Research Papers 📄
 
 # compilers
 
