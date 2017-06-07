@@ -69,6 +69,12 @@ Pull requests are welcome. Thank you. 💙
 - [an analysis of single-layer networks in unsupervised feature learning 📄](http://ai.stanford.edu/%7Eacoates/papers/coatesleeng_aistats_2011.pdf)
   interesting paper about how using weaker classifiers (kmeans) can get comparable results to more sophisticated ones like deep neural nets with the decisions made before training a model like statistical whitening, picking a large number of features, etc.
 
+- [viola jones robust real-time object detection 📄](http://www.swarthmore.edu/NatSci/mzucker1/papers/violaJones_IJCV.pdf)
+  real time face detection method most cameras use today, discusses ensemble learning methods (adaboost) and a clever way to detect features in one O(n) pre-processing step.
+
+- [example-based photometric stereo: shape reconstruction with general, varying brdfs 📄](http://grail.cs.washington.edu/projects/sam/HertzmannSeitzPAMI2005.pdf)
+  paper discusses how you can reconstruct an objects 3d shape just by analyzing how light reflects off an object's surface – picture examples [here](http://grail.cs.washington.edu/projects/sam/).
+
 - [mask r-cnn 📄](https://arxiv.org/abs/1703.06870)
 
 
