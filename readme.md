@@ -2,7 +2,7 @@
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting research papers one can use to learn new things and discover new insights. 🔭
 
-The number before the book name stands for the year in which the research paper was written in. All reearch papers are put in their respective category and are sorted from oldest to newest. 
+The number before the name stands for the year in which the research paper was written in. All reearch papers are put in their respective category and are sorted from oldest to newest. 
 
 Pull requests are welcome. Thank you. 💙
 
