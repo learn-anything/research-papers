@@ -1,4 +1,16 @@
-# Free research papers all can learn from 🚀
+<h1 align="center"> Free research papers all can learn from 🚀 </h1>
+
+<div align="center">
+<a href="https://www.patreon.com/learnanything">
+		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
+	</a>
+	<a href="https://github.com/learn-anything/research-papers/blob/master/LICENSE">
+		<img src="https://img.shields.io/pypi/l/pipenv.svg">
+	</a>
+</div>
+
+<h1 align="center"> Description 📕</h1>
+
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting research papers one can use to learn new things and discover new insights. 🔭
 
@@ -18,7 +30,7 @@ Pull requests are welcome. Thank you. 💙
 - [inspire](https://inspirehep.net/)
 - [PLOS](https://www.plos.org/)
 
-# Research Papers 📄
+<h1 align="center"> Research Papers  </h1>
 
 # garbage collection
 
