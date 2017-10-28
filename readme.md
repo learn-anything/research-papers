@@ -139,7 +139,7 @@ Pull requests are welcome. Thank you. 💙
 ### Functional programming
 - [1988: how to make ad-hoc polymorphism less ad hoc 📄](https://pdfs.semanticscholar.org/cc7f/2242dba6f09023128897762d07517f13ba4a.pdf)
 - [1994: lazy functional state threads 📄](https://www.microsoft.com/en-us/research/wp-content/uploads/1994/06/lazy-functional-state-threads.pdf)
-  accessible introduction to the machinery underneath ST and IO
+	- accessible introduction to the machinery underneath ST and IO
 - [02: the countdown problem 📄](http://www.cs.nott.ac.uk/%7Epszgmh/countdown.pdf)
 - [06: functional program to solve sudoku 📄](http://www.cs.tufts.edu/%7Enr/cs257/archive/richard-bird/sudoku.pdf)
 - [07: infinite sets that admit fast exhaustive search 📄](http://www.cs.bham.ac.uk/%7Emhe/papers/exhaustive.pdf)
