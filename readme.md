@@ -1,12 +1,12 @@
-# Free research papers all can learn from 📃 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-## Description 📕
-Here is a curated list of all the interesting research papers one can use to learn new things and discover new insights. 
+# Interesting Researh Papers [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+
+This is a curated list of all the interesting research papers.
 
 The number before the name stands for the year in which the research paper was written in. All reearch papers are put in their respective category and are sorted from oldest to newest. 
 
-Pull requests are welcome. Thank you. 💙
+Pull requests are welcome. Thank you. 💜
 
-### Related websites / repositories 
+## Related websites / repositories 
 - [papers we love](http://paperswelove.org/)
 - [arxiv sanity preserver](http://www.arxiv-sanity.com/)
 - [research in production](https://github.com/evnm/research-in-production)
@@ -152,3 +152,6 @@ Pull requests are welcome. Thank you. 💙
 
 ### Concurrency
 - [07: beautiful concurrency](https://www.microsoft.com/en-us/research/publication/beautiful-concurrency/)
+
+## Contribute 
+If you found a research paper that you really like, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
