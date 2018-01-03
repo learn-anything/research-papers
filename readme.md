@@ -8,6 +8,25 @@
 - [Garbage collection](#garbage-collection)
 - [Reverse engineering](#reverse-engineering)
 - [Programming](#programming)
+- [Physics](#physics)
+- [Computer vision](#computer-vision)
+- [Web](#web)
+- [Deep Learning](#deep-learning)
+- [Security](#security)
+- [Statistics](#statistics)
+- [Design](#design)
+- [Machine Learning](#machine-learning)
+- [System design](#system-design)
+- [Compilers](#compilers)
+- [Virtualisation](#virtualisation)
+- [Big Data](#big-data)
+- [Computer science](#computer-science)
+- [Artificial intelligence](#artificial-intelligence)
+- [Neural networks](#neural-networks)
+- [Psychedelics](#psychedelics)
+- [Mathematics](#mathematics)
+- [Functional programming](#functional-programming)
+- [Concurrency](#concurrency)
 - [Related](#related)
 
 ## Key
@@ -46,7 +65,6 @@ The number after the name stands for the year in which the research paper was wr
 
 ## Deep Learning
 - [Evolution strategies as a scalable alternative to reinforcement learning (2017)](https://arxiv.org/abs/1703.03864)
-
 
 ## Security
 - [Some thoughts on security after ten years of qmail 1.0](http://cr.yp.to/qmail/qmailsec-20071101.pdf)
