@@ -47,8 +47,7 @@ The number after the name stands for the year in which the research paper was wr
 - [Equal rights for functional objects or, the more things change, the more they are the same](http://home.pipeline.com/~hbaker1/ObjectIdentity.html)
 - [What every programmer should know about memory](https://www.akkadia.org/drepper/cpumemory.pdf)
 - [The c standard formalised in coq](http://robbertkrebbers.nl/research/thesis.pdf)
-- [An analysis and survey of the development of](https://pdfs.semanticscholar.org/3277/8a2eb4c74cd437e922ac1eb6a1477dfcb925.pdf)  
-  [Mutation testing](https://pdfs.semanticscholar.org/3277/8a2eb4c74cd437e922ac1eb6a1477dfcb925.pdf)
+- [An analysis and survey of the development of Mutation testing](https://pdfs.semanticscholar.org/3277/8a2eb4c74cd437e922ac1eb6a1477dfcb925.pdf)
 
 ## Physics
 - [The holographic solution - why general relativity must be understood in terms of strings (2004)](https://arxiv.org/abs/gr-qc/0405007)
