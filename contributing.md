@@ -2,10 +2,9 @@
 Ensure your pull request adheres to the following guidelines:
 - Search included research papers before adding a new one, as yours may be a duplicate.
 - Use the following format: `[Name](link) (Year) - Description.`
-- Adding the Year is optional but is advised.
+- If you can't find the year the research paper was written in, you can skip adding the year.
 - The paper should be put into its appropriate category. Pick the one you think is closest if you are not sure.
-- If you want to add a link to notes for the research paper, add it below the paper as subdashed point.
-- Start the description with a capital and end with a full stop/period.
+- Start the description with a capital and end with a full stop.
 - Don't start the description with `A` or `An`.
 - New categories or improvements to the existing categorisation are welcome.
 - Check your spelling and grammar.
