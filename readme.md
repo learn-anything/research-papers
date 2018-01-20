@@ -3,9 +3,7 @@
 
 The number after the name stands for the year in which the research paper was written in. All research papers are put in their respective category and are sorted from oldest to newest.
 
-
 ## Contents
-- [Key](#key)
 - [Garbage collection](#garbage-collection)
 - [Reverse engineering](#reverse-engineering)
 - [Programming](#programming)
@@ -30,7 +28,6 @@ The number after the name stands for the year in which the research paper was wr
 - [Concurrency](#concurrency)
 - [Related](#related)
 
-## Key
 ## Garbage collection
 - [Lively linear lisp -- 'look ma, no garbage!](http://www.pipeline.com/~hbaker1/LinearLisp.html)
 - [Thermodynamics and garbage collection](http://www.pipeline.com/~hbaker1/ThermoGC.html)
