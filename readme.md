@@ -1,9 +1,8 @@
 # Interesting Research Papers [![Lists](https://github.com/learn-anything/curated-lists#curated-lists-https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#curated-lists-) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-[Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md/#contribution-guidelines) before contributing.*
+*Please read the [contribution guidelines](contributing.md/#contribution-guidelines) before contributing.*
 
 The number after the name stands for the year in which the research paper was written in. All research papers are put in their respective category and are sorted from oldest to newest.
 
-## Contents
 - [Garbage collection](#garbage-collection)
 - [Reverse engineering](#reverse-engineering)
 - [Programming](#programming)
