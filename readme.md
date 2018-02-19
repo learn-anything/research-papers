@@ -1,4 +1,4 @@
-# Interesting Research Papers [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#curated-lists-) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Interesting Research Papers [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#curated-lists)
 *Please read the [contribution guidelines](contributing.md/#contribution-guidelines) before contributing.*
 
 The number after the name stands for the year in which the research paper was written in. All research papers are put in their respective category and are sorted from oldest to newest.
@@ -170,7 +170,7 @@ The number after the name stands for the year in which the research paper was wr
 See [contribution guidelines](contributing.md/#contribution-guidelines).
 
 ## More lists 📝
-For more lists like this, see [here](https://github.com/learn-anything/curated-lists#curated-lists-).
+For more lists like this, see [here](https://github.com/learn-anything/curated-lists#curated-lists).
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
