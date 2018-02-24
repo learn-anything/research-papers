@@ -6,6 +6,7 @@ The number after the name stands for the year in which the research paper was wr
 - [Garbage collection](#garbage-collection)
 - [Reverse engineering](#reverse-engineering)
 - [Programming](#programming)
+- [Programming languages](#programming-languages)
 - [Physics](#physics)
 - [Computer vision](#computer-vision)
 - [Web](#web)
@@ -43,6 +44,9 @@ The number after the name stands for the year in which the research paper was wr
 - [What every programmer should know about memory](https://www.akkadia.org/drepper/cpumemory.pdf)
 - [The c standard formalised in coq](http://robbertkrebbers.nl/research/thesis.pdf)
 - [An analysis and survey of the development of Mutation testing](https://pdfs.semanticscholar.org/3277/8a2eb4c74cd437e922ac1eb6a1477dfcb925.pdf)
+
+## Programming languages
+- [Using closures for code generation](http://www.iro.umontreal.ca/%7Efeeley/papers/FeeleyLapalmeCL87.pdf)
 
 ## Physics
 - [The holographic solution - why general relativity must be understood in terms of strings (2004)](https://arxiv.org/abs/gr-qc/0405007)
