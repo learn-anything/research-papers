@@ -1,5 +1,5 @@
-# Interesting Research Papers [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#readme)
-*Please read the [contribution guidelines](contributing.md/#contribution-guidelines#readme) before contributing.*
+# Interesting Research Papers [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
+*Please read the [contribution guidelines](contributing.md#readme) before contributing.*
 
 The number after the name stands for the year in which the research paper was written in. All research papers are put in their respective category and are sorted from oldest to newest.
 
@@ -171,7 +171,7 @@ The number after the name stands for the year in which the research paper was wr
 - [PLOS](https://www.plos.org/)
 
 ## Contributing
-See [contribution guidelines](contributing.md/#contribution-guidelines#readme).
+See [contribution guidelines](contributing.md#readme).
 
 ## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
