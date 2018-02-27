@@ -160,6 +160,7 @@ The number after the name stands for the year in which the research paper was wr
 - [Breaking through the normalisation barrier: a self-interpreter for f-omega](http://compilers.cs.ucla.edu/popl16/)
 - [Typed self-evaluation via intensional type functions](http://compilers.cs.ucla.edu/popl17/)
 - [Freer monads, more extensible effects](http://okmij.org/ftp/Haskell/extensible/more.pdf)
+- [The Genuine Sieve of Eratosthenes](https://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf)
 
 ## Concurrency
 - [Beautiful concurrency (2007)](https://www.microsoft.com/en-us/research/publication/beautiful-concurrency/)
