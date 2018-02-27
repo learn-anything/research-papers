@@ -88,6 +88,9 @@ The number after the name stands for the year in which the research paper was wr
 - [Dynamo: a transparent dynamic optimization system](https://www.cs.virginia.edu/kim/courses/cs771/papers/bala00dynamo.pdf)
 - [Calculating correct compilers (2015)](http://www.cs.nott.ac.uk/%7Epszgmh/ccc.pdf)
 
+## Haskell
+- [Linear-Time Suffix Array Implementation in Haskell (2014)](http://www.scs.stanford.edu/14sp-cs240h/projects/isaacs_geiduscheck.pdf)
+
 ## Virtualisation
 - [Virtual machine monitors: current technology and future trends](http://xenon.stanford.edu/%7Etalg/papers/COMPUTER05/virtual-future-computer05.pdf)
 
