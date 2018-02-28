@@ -171,7 +171,6 @@ The number after the name stands for the year in which the research paper was wr
 - [Research in production](https://github.com/evnm/research-in-production)
 - [Awesome deep learning papers](https://github.com/endymecy/awesome-deeplearning-resources)
 - [Summaries and notes on deep learning research papers](https://github.com/dennybritz/deeplearning-papernotes)
-- [Lobal](https://www.lobal.io/)
 - [Google Brain Team](https://research.google.com/teams/brain/)
 - [Inspire](https://inspirehep.net/)
 - [PLOS](https://www.plos.org/)
