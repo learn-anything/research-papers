@@ -126,6 +126,7 @@ The number after the name stands for the year in which the research paper was wr
 
 ## Psychedelics
 - [Crystal structure of an lsd-bound human serotonin receptor](http://www.cell.com/cell/fulltext/S0092-8674%2816%2931749-4)
+- [Towards a biophysical understanding of hallucinogen action (2007)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.688.8514&rep=rep1&type=pdf)
 
 ## Mathematics
 - [Polynomial exact-3-sat solving algorithm](http://vixra.org/pdf/1212.0109v1.pdf)
