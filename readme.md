@@ -171,9 +171,14 @@ The number after the name stands for the year in which the research paper was wr
 ## Databases
 - [Simplicial Databases - David I. Spivak (2009)](https://arxiv.org/abs/0904.2012)
 
+## Category theory
+- [Backprop as Functor: A compositional perspective on supervised learning - Brendan Fong, David I. Spivak, Rémy Tuyéras (2017)](https://arxiv.org/abs/1711.10455)
+- [The Algebra of Open and Interconnected Systems - Brendan Fong (2016)](https://arxiv.org/abs/1609.05382)
+
 ## Related
+- [arXiv](https://arxiv.org/)
 - [Papers we love](http://paperswelove.org/)
-- [Arxiv sanity preserver](http://www.arxiv-sanity.com/)
+- [arXiv sanity preserver](http://www.arxiv-sanity.com/)
 - [Research in production](https://github.com/evnm/research-in-production#readme)
 - [Awesome deep learning papers](https://github.com/endymecy/awesome-deeplearning-resources#readme)
 - [Summaries and notes on deep learning research papers](https://github.com/dennybritz/deeplearning-papernotes#readme)
