@@ -28,6 +28,7 @@ The number after the name stands for the year in which the research paper was wr
 - [Functional programming](#functional-programming)
 - [Concurrency](#concurrency)
 - [Databases](#databases)
+- [Category theory](#category-theory)
 - [Related](#related)
 
 ## Garbage collection
