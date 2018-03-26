@@ -27,6 +27,7 @@ The number after the name stands for the year in which the research paper was wr
 - [Mathematics](#mathematics)
 - [Functional programming](#functional-programming)
 - [Concurrency](#concurrency)
+- [Databases](#databases)
 - [Related](#related)
 
 ## Garbage collection
@@ -166,6 +167,9 @@ The number after the name stands for the year in which the research paper was wr
 
 ## Concurrency
 - [Beautiful concurrency (2007)](https://www.microsoft.com/en-us/research/publication/beautiful-concurrency/)
+
+## Databases
+- [Simplicial Databases - David I. Spivak (2009)](https://arxiv.org/abs/0904.2012)
 
 ## Related
 - [Papers we love](http://paperswelove.org/)
