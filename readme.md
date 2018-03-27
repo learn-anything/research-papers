@@ -80,6 +80,7 @@ The number after the name stands for the year in which the research paper was wr
 - [Dropout- a simple way to prevent neural networks from overfitting (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
 - [Deep voice: real-time neural text-to-speech (2017)](https://arxiv.org/pdf/1702.07825.pdf)
 - [Gaussian processes for big data](http://auai.org/uai2013/prints/papers/244.pdf)
+- [Adversarial Patch](https://arxiv.org/pdf/1712.09665.pdf)
 - [A few useful things to know about machine learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 - [The high-interest credit card of technical debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 
