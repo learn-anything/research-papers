@@ -110,6 +110,7 @@ The number after the name stands for the year in which the research paper was wr
 - [Challenges to adopting stronger consistency at scale](http://www-bcf.usc.edu/~wyattllo/papers/challenges-hotos15.pdf)
 - [Squeak makes a good python debugger (2017)](https://github.com/fniephaus/papers/blob/master/2017/px17-debugger.pdf)
 - [Naked objects](http://downloads.nakedobjects.net/resources/Pawson%20thesis.pdf)
+- [Three measurement problems](https://www.academia.edu/32885328/Three_measurement_problems)
 - [A hub-based labeling algorithm for shortest paths on road networks](https://www.microsoft.com/en-us/research/wp-content/uploads/2010/12/HL-TR.pdf)
 - [Propositions as types](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
 
