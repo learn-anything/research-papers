@@ -25,6 +25,7 @@ The number after the name stands for the year in which the research paper was wr
 - [Neural networks](#neural-networks)
 - [Psychedelics](#psychedelics)
 - [Math](#math)
+- [Operating systems](#operating-systems)
 - [Functional programming](#functional-programming)
 - [Concurrency](#concurrency)
 - [Databases](#databases)
@@ -171,6 +172,9 @@ The number after the name stands for the year in which the research paper was wr
 - [Typed self-evaluation via intensional type functions](http://compilers.cs.ucla.edu/popl17/)
 - [Freer monads, more extensible effects](http://okmij.org/ftp/Haskell/extensible/more.pdf)
 - [The Genuine Sieve of Eratosthenes](https://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf)
+
+## Operating systems
+- [http://media.urbit.org/whitepaper.pdf](http://media.urbit.org/whitepaper.pdf)
 
 ## Concurrency
 - [Beautiful concurrency (2007)](https://www.microsoft.com/en-us/research/publication/beautiful-concurrency/)
