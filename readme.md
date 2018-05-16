@@ -24,7 +24,7 @@ The number after the name stands for the year in which the research paper was wr
 - [Artificial intelligence](#artificial-intelligence)
 - [Neural networks](#neural-networks)
 - [Psychedelics](#psychedelics)
-- [Mathematics](#mathematics)
+- [Math](#math)
 - [Functional programming](#functional-programming)
 - [Concurrency](#concurrency)
 - [Databases](#databases)
@@ -133,10 +133,12 @@ The number after the name stands for the year in which the research paper was wr
 - [Crystal structure of an lsd-bound human serotonin receptor](http://www.cell.com/cell/fulltext/S0092-8674%2816%2931749-4)
 - [Towards a biophysical understanding of hallucinogen action (2007)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.688.8514&rep=rep1&type=pdf)
 
-## Mathematics
+## Math
 - [Polynomial exact-3-sat solving algorithm](http://vixra.org/pdf/1212.0109v1.pdf)
 - [The language and grammar of mathematics](http://press.princeton.edu/chapters/gowers/gowers_I_2.pdf)
+- [Comprehending Monads](https://ncatlab.org/nlab/files/WadlerMonads.pdf)
 - [Notation as a tool of thought](http://www.jsoftware.com/papers/tot.htm)
+- [A Mathematical Theory of Communication](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 - [Graph isomorphism in quasipolynomial time](https://arxiv.org/abs/1512.03547)
 - [On proof and progress in mathematics](https://arxiv.org/pdf/math/9404236v1.pdf)
 - [Introduction to categories and categorical logic](https://arxiv.org/abs/1102.1313)
