@@ -48,6 +48,7 @@ The number after the name stands for the year in which the research paper was wr
 - [What every programmer should know about memory](https://www.akkadia.org/drepper/cpumemory.pdf)
 - [The c standard formalised in coq](http://robbertkrebbers.nl/research/thesis.pdf)
 - [An analysis and survey of the development of Mutation testing](https://pdfs.semanticscholar.org/3277/8a2eb4c74cd437e922ac1eb6a1477dfcb925.pdf)
+- [The Purely Functional Software Deployment Model](https://nixos.org/%7Eeelco/pubs/phd-thesis.pdf)
 
 ## Programming languages
 - [Using closures for code generation](http://www.iro.umontreal.ca/%7Efeeley/papers/FeeleyLapalmeCL87.pdf)
@@ -174,7 +175,8 @@ The number after the name stands for the year in which the research paper was wr
 - [The Genuine Sieve of Eratosthenes](https://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf)
 
 ## Operating systems
-- [http://media.urbit.org/whitepaper.pdf](http://media.urbit.org/whitepaper.pdf)
+- [NixOS: A purely Functional Linux Distribution (2010)](https://github.com/srdqty/nixos-learning/tree/master/papers/2010-nixos-a-purely-functional-linux-distribution)
+- [Urbit: A Solid-State Interpreter (2016)](http://media.urbit.org/whitepaper.pdf)
 
 ## Concurrency
 - [Beautiful concurrency (2007)](https://www.microsoft.com/en-us/research/publication/beautiful-concurrency/)
