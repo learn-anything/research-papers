@@ -175,7 +175,7 @@ The number after the name stands for the year in which the research paper was wr
 - [The Genuine Sieve of Eratosthenes](https://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf)
 
 ## Operating systems
-- [NixOS: A purely Functional Linux Distribution (2010)](https://github.com/srdqty/nixos-learning/tree/master/papers/2010-nixos-a-purely-functional-linux-distribution)
+- [NixOS: A purely Functional Linux Distribution (2010)](https://nixos.org/%7Eeelco/pubs/nixos-jfp-final.pdf)
 - [Urbit: A Solid-State Interpreter (2016)](http://media.urbit.org/whitepaper.pdf)
 
 ## Concurrency
