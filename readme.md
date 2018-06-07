@@ -26,6 +26,7 @@ The number after the name stands for the year in which the research paper was wr
 - [Psychedelics](#psychedelics)
 - [Math](#math)
 - [Operating systems](#operating-systems)
+- [Type theory](#type-theory)
 - [Functional programming](#functional-programming)
 - [Concurrency](#concurrency)
 - [Databases](#databases)
@@ -115,7 +116,6 @@ The number after the name stands for the year in which the research paper was wr
 - [Naked objects](http://downloads.nakedobjects.net/resources/Pawson%20thesis.pdf)
 - [Three measurement problems](https://www.academia.edu/32885328/Three_measurement_problems)
 - [A hub-based labeling algorithm for shortest paths on road networks](https://www.microsoft.com/en-us/research/wp-content/uploads/2010/12/HL-TR.pdf)
-- [Propositions as types](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
 
 ## Artificial intelligence
 - [Winner-take-all autoencoders](https://arxiv.org/pdf/1409.2752.pdf)
@@ -155,6 +155,10 @@ The number after the name stands for the year in which the research paper was wr
 - [Beta reduction is invariant, indeed](https://arxiv.org/abs/1601.01233)
 - [Sketch of a Programme](http://matematicas.unex.es/%7Enavarro/res/esquisseeng.pdf)
 - [A naturalist account of the limited, and hence reasonable, effectiveness of mathematics in physics (2015)](https://arxiv.org/abs/1506.03733)
+
+## Type theory
+- [Lambda Calculi with Types (1992)](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=97EC80F28ED10845C2941C0BFB8AC432?doi=10.1.1.26.4391&rep=rep1&type=pdf)
+- [Propositions as types](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
 - [The derivative of a regular type is its type of one-hole contexts](http://strictlypositive.org/diff.pdf)
 
 ## Functional programming
