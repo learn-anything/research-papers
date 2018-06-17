@@ -86,6 +86,7 @@ The number after the name stands for the year in which the research paper was wr
 - [Adversarial Patch](https://arxiv.org/pdf/1712.09665.pdf)
 - [A few useful things to know about machine learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 - [The high-interest credit card of technical debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
+- [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/pdf/1606.03657.pdf)
 
 ## System design
 - [Systems approaches to tackling configuration errors: a survey](http://opera.ucsd.edu/paper/csur15-survey.pdf)
