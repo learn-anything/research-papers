@@ -80,6 +80,7 @@ The number after the name stands for the year in which the research paper was wr
 - [Yond human abilities (20design )](https://dreamsongs.com/Files/DesignBeyondHumanAbilitiesSimp.pdf)
 
 ## Machine Learning
+- [A Unifying Review of Linear Gaussian Models (1998)](http://mlg.eng.cam.ac.uk/zoubin/papers/lds.pdf)
 - [Dropout- a simple way to prevent neural networks from overfitting (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
 - [Deep voice: real-time neural text-to-speech (2017)](https://arxiv.org/pdf/1702.07825.pdf)
 - [Gaussian processes for big data](http://auai.org/uai2013/prints/papers/244.pdf)
