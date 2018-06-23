@@ -31,6 +31,7 @@ The number after the name stands for the year in which the research paper was wr
 - [Concurrency](#concurrency)
 - [Databases](#databases)
 - [Category theory](#category-theory)
+- [Other](#other)
 - [Related](#related)
 
 ## Garbage collection
@@ -197,6 +198,9 @@ The number after the name stands for the year in which the research paper was wr
 ## Category theory
 - [Backprop as Functor: A compositional perspective on supervised learning - Brendan Fong, David I. Spivak, Rémy Tuyéras (2017)](https://arxiv.org/abs/1711.10455)
 - [The Algebra of Open and Interconnected Systems - Brendan Fong (2016)](https://arxiv.org/abs/1609.05382)
+
+## Other
+- [Tor: The Second-Generation Onion Router](https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf)
 
 ## Related
 - [arXiv](https://arxiv.org/)
