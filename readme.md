@@ -159,6 +159,7 @@ The number after the name stands for the year in which the research paper was wr
 - [A naturalist account of the limited, and hence reasonable, effectiveness of mathematics in physics (2015)](https://arxiv.org/abs/1506.03733)
 
 ## Type theory
+- [The Syntax and Semantics of Quantitative Type Theory (2018)](https://bentnib.org/quantitative-type-theory.html)
 - [Lambda Calculi with Types (1992)](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=97EC80F28ED10845C2941C0BFB8AC432?doi=10.1.1.26.4391&rep=rep1&type=pdf)
 - [Propositions as types](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
 - [The derivative of a regular type is its type of one-hole contexts](http://strictlypositive.org/diff.pdf)
