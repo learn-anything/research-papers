@@ -109,14 +109,15 @@ The number after the name stands for the year in which the research paper was wr
 - [The pathologies of big data](http://queue.acm.org/detail.cfm?id=1563874)
 
 ## Computer science
+- [The Case for Learned Index Structures (2017)](https://www.arxiv-vanity.com/papers/1712.01208/)
+- [Squeak makes a good python debugger (2017)](https://github.com/fniephaus/papers/blob/master/2017/px17-debugger.pdf)
+- [Dat - Distributed Dataset Synchronisation and Versioning (2017)](https://github.com/datproject/docs/blob/master/papers/dat-paper.pdf)
 - [Robots take over the world (2007)](http://cseweb.ucsd.edu/classes/fa16/cse200-a/robots_rule.pdf)
 - [Let’s go to the whiteboard: (2007)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/p557-cherubini.pdf)
 - [How and why software developers use drawings](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/p557-cherubini.pdf)
 - [How complex systems fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
 - [How to make ad-hoc polymorphism less add hoc](https://people.csail.mit.edu/dnj/teaching/6898/papers/wadler88.pdf)
 - [Challenges to adopting stronger consistency at scale](http://www-bcf.usc.edu/~wyattllo/papers/challenges-hotos15.pdf)
-- [Squeak makes a good python debugger (2017)](https://github.com/fniephaus/papers/blob/master/2017/px17-debugger.pdf)
-- [Dat - Distributed Dataset Synchronisation and Versioning (2017)](https://github.com/datproject/docs/blob/master/papers/dat-paper.pdf)
 - [Naked objects](http://downloads.nakedobjects.net/resources/Pawson%20thesis.pdf)
 - [Three measurement problems](https://www.academia.edu/32885328/Three_measurement_problems)
 - [A hub-based labeling algorithm for shortest paths on road networks](https://www.microsoft.com/en-us/research/wp-content/uploads/2010/12/HL-TR.pdf)
