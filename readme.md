@@ -94,9 +94,10 @@ The number after the name stands for the year in which the research paper was wr
 - [Systems approaches to tackling configuration errors: a survey](http://opera.ucsd.edu/paper/csur15-survey.pdf)
 
 ## Compilers
+- [Calculating correct compilers (2015)](http://www.cs.nott.ac.uk/%7Epszgmh/ccc.pdf)
+- [Writing parsers like it is 2017](http://spw17.langsec.org/papers/chifflier-parsing-in-2017.pdf)
 - [An incremental approach to compiler construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
 - [Dynamo: a transparent dynamic optimization system](https://www.cs.virginia.edu/kim/courses/cs771/papers/bala00dynamo.pdf)
-- [Calculating correct compilers (2015)](http://www.cs.nott.ac.uk/%7Epszgmh/ccc.pdf)
 
 ## Haskell
 - [Linear-Time Suffix Array Implementation in Haskell (2014)](http://www.scs.stanford.edu/14sp-cs240h/projects/isaacs_geiduscheck.pdf)
