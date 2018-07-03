@@ -81,9 +81,10 @@ The number after the name stands for the year in which the research paper was wr
 - [Yond human abilities (20design )](https://dreamsongs.com/Files/DesignBeyondHumanAbilitiesSimp.pdf)
 
 ## Machine Learning
-- [A Unifying Review of Linear Gaussian Models (1998)](http://mlg.eng.cam.ac.uk/zoubin/papers/lds.pdf)
-- [Dropout- a simple way to prevent neural networks from overfitting (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
+- [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial (2017)](https://arxiv.org/abs/1703.01619)
 - [Deep voice: real-time neural text-to-speech (2017)](https://arxiv.org/pdf/1702.07825.pdf)
+- [Dropout- a simple way to prevent neural networks from overfitting (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
+- [A Unifying Review of Linear Gaussian Models (1998)](http://mlg.eng.cam.ac.uk/zoubin/papers/lds.pdf)
 - [Gaussian processes for big data](http://auai.org/uai2013/prints/papers/244.pdf)
 - [Adversarial Patch](https://arxiv.org/pdf/1712.09665.pdf)
 - [A few useful things to know about machine learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
