@@ -58,6 +58,7 @@ The number after the name stands for the year in which the research paper was wr
 ## Physics
 - [Hamiltonian for the zeros of the Riemann Zeta function (2016)](https://arxiv.org/abs/1608.03679)
 - [The holographic solution - why general relativity must be understood in terms of strings (2004)](https://arxiv.org/abs/gr-qc/0405007)
+- [What is life? (1944)](http://www.whatislife.ie/downloads/What-is-Life.pdf)
 - [On the electrodynamics of moving bodies (1905)](http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Einstein_1905_relativity.pdf)
 
 ## Computer vision
