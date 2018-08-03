@@ -56,8 +56,9 @@ The number after the name stands for the year in which the research paper was wr
 - [Using closures for code generation](http://www.iro.umontreal.ca/%7Efeeley/papers/FeeleyLapalmeCL87.pdf)
 
 ## Physics
+- [Hamiltonian for the zeros of the Riemann Zeta function (2016)](https://arxiv.org/abs/1608.03679)
 - [The holographic solution - why general relativity must be understood in terms of strings (2004)](https://arxiv.org/abs/gr-qc/0405007)
-- [Hamiltonian for the zeros of the riemann zeta function (2016)](https://arxiv.org/abs/1608.03679)
+- [On the electrodynamics of moving bodies (1905)](http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Einstein_1905_relativity.pdf)
 
 ## Computer vision
 - [An analysis of single-layer networks in unsupervised feature learning](http://ai.stanford.edu/%7Eacoates/papers/coatesleeng_aistats_2011.pdf) - Interesting paper about how using weaker classifiers (kmeans) can get comparable results to more sophisticated ones like deep neural nets with the decisions made before training a model like statistical whitening, picking a large number of features, etc.
