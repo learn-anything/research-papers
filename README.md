@@ -7,6 +7,7 @@ The number after the name stands for the year in which the research paper was wr
 ---
 
 ##### Contents
+
 - [Artificial intelligence](#artificial-intelligence)
 - [Big Data](#big-data)
 - [Category theory](#category-theory)
@@ -41,25 +42,30 @@ The number after the name stands for the year in which the research paper was wr
 ---
 
 ## Artificial intelligence
+
 - [Winner-take-all autoencoders](https://arxiv.org/pdf/1409.2752.pdf)
 - [A roadmap towards machine intelligence](https://arxiv.org/pdf/1511.08130.pdf)
 - [Is the brain a good model for machine intelligence?](http://www.gatsby.ucl.ac.uk/%7Edemis/TuringSpecialIssue%28Nature2012%29.pdf)
 - [Concrete problems in ai safety](https://arxiv.org/pdf/1606.06565.pdf)
 
 ## Big Data
+
 - [The pathologies of big data](http://queue.acm.org/detail.cfm?id=1563874)
 
 ## Category theory
+
 - [Backprop as Functor: A compositional perspective on supervised learning - Brendan Fong, David I. Spivak, Rémy Tuyéras (2017)](https://arxiv.org/abs/1711.10455)
 - [The Algebra of Open and Interconnected Systems - Brendan Fong (2016)](https://arxiv.org/abs/1609.05382)
 
 ## Compilers
+
 - [Writing parsers like it is 2017](http://spw17.langsec.org/papers/chifflier-parsing-in-2017.pdf)
 - [Calculating correct compilers (2015)](http://www.cs.nott.ac.uk/%7Epszgmh/ccc.pdf)
 - [An incremental approach to compiler construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
 - [Dynamo: a transparent dynamic optimization system](https://www.cs.virginia.edu/kim/courses/cs771/papers/bala00dynamo.pdf)
 
 ## Computer science
+
 - [The Case for Learned Index Structures (2017)](https://www.arxiv-vanity.com/papers/1712.01208/)
 - [Squeak makes a good python debugger (2017)](https://github.com/fniephaus/papers/blob/master/2017/px17-debugger.pdf)
 - [Dat - Distributed Dataset Synchronisation and Versioning (2017)](https://github.com/datproject/docs/blob/master/papers/dat-paper.pdf)
@@ -74,24 +80,30 @@ The number after the name stands for the year in which the research paper was wr
 - [A hub-based labeling algorithm for shortest paths on road networks](https://www.microsoft.com/en-us/research/wp-content/uploads/2010/12/HL-TR.pdf)
 
 ## Computer vision
+
 - [An analysis of single-layer networks in unsupervised feature learning](http://ai.stanford.edu/%7Eacoates/papers/coatesleeng_aistats_2011.pdf) - Interesting paper about how using weaker classifiers (kmeans) can get comparable results to more sophisticated ones like deep neural nets with the decisions made before training a model like statistical whitening, picking a large number of features, etc.
 - [Viola jones robust real-time object detection](http://www.swarthmore.edu/NatSci/mzucker1/papers/violaJones_IJCV.pdf) - Real time face detection method most cameras use today, discusses ensemble learning methods (adaboost) and a clever way to detect features in one O(n) pre-processing step.
 - [Example-based photometric stereo: shape reconstruction with general, varying brdfs](http://grail.cs.washington.edu/projects/sam/HertzmannSeitzPAMI2005.pdf) - Discusses how you can reconstruct an objects 3d shape just by analyzing how light reflects off an object's surface.
 - [Mask r-cnn](https://arxiv.org/abs/1703.06870)
 
 ## Concurrency
+
 - [Beautiful concurrency (2007)](https://www.microsoft.com/en-us/research/publication/beautiful-concurrency/)
 
 ## Databases
+
 - [Simplicial Databases - David I. Spivak (2009)](https://arxiv.org/abs/0904.2012)
 
 ## Deep Learning
+
 - [Evolution strategies as a scalable alternative to reinforcement learning (2017)](https://arxiv.org/abs/1703.03864)
 
 ## Design
+
 - [Yond human abilities (20design )](https://dreamsongs.com/Files/DesignBeyondHumanAbilitiesSimp.pdf)
 
 ## Functional programming
+
 - [How to make ad-hoc polymorphism less ad hoc (1988)](https://pdfs.semanticscholar.org/cc7f/2242dba6f09023128897762d07517f13ba4a.pdf)
 - [Lazy functional state threads (1994)](https://www.microsoft.com/en-us/research/wp-content/uploads/1994/06/lazy-functional-state-threads.pdf) - Accessible introduction to the machinery underneath ST and IO.
 - [The countdown problem (2002)](http://www.cs.nott.ac.uk/%7Epszgmh/countdown.pdf)
@@ -109,13 +121,16 @@ The number after the name stands for the year in which the research paper was wr
 - [The Genuine Sieve of Eratosthenes](https://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf)
 
 ## Garbage collection
+
 - [Lively linear lisp -- 'look ma, no garbage!](http://www.pipeline.com/~hbaker1/LinearLisp.html)
 - [Thermodynamics and garbage collection](http://www.pipeline.com/~hbaker1/ThermoGC.html)
 
 ## Haskell
+
 - [Linear-Time Suffix Array Implementation in Haskell (2014)](http://www.scs.stanford.edu/14sp-cs240h/projects/isaacs_geiduscheck.pdf)
 
 ## Machine Learning
+
 - [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial (2017)](https://arxiv.org/abs/1703.01619)
 - [Deep voice: real-time neural text-to-speech (2017)](https://arxiv.org/pdf/1702.07825.pdf)
 - [Dropout: a simple way to prevent neural networks from overfitting (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
@@ -127,6 +142,7 @@ The number after the name stands for the year in which the research paper was wr
 - [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/pdf/1606.03657.pdf)
 
 ## Math
+
 - [Polynomial exact-3-sat solving algorithm](http://vixra.org/pdf/1212.0109v1.pdf)
 - [The language and grammar of mathematics](http://press.princeton.edu/chapters/gowers/gowers_I_2.pdf)
 - [Comprehending Monads](https://ncatlab.org/nlab/files/WadlerMonads.pdf)
@@ -148,6 +164,7 @@ The number after the name stands for the year in which the research paper was wr
 - [A naturalist account of the limited, and hence reasonable, effectiveness of mathematics in physics (2015)](https://arxiv.org/abs/1506.03733)
 
 ## Neural networks
+
 - [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
 - [Learning without forgetting](https://arxiv.org/pdf/1606.09282.pdf)
 - [Neural turing machine](http://www.wikiwand.com/en/Neural_Turing_machine)
@@ -156,10 +173,12 @@ The number after the name stands for the year in which the research paper was wr
 - [Pathnet: evolution channels gradient descent in super neural networks](https://arxiv.org/pdf/1701.08734.pdf)
 
 ## Operating systems
+
 - [NixOS: A purely Functional Linux Distribution (2010)](https://nixos.org/%7Eeelco/pubs/nixos-jfp-final.pdf)
 - [Urbit: A Solid-State Interpreter (2016)](http://media.urbit.org/whitepaper.pdf)
 
 ## Physics
+
 - [Hamiltonian for the zeros of the Riemann Zeta function (2016)](https://arxiv.org/abs/1608.03679)
 - [General Relativity and Cosmology: Unsolved Questions and Future Directions (2016)](https://arxiv.org/abs/1609.09781)
 - [There are no particles, there are only fields (2012)](https://arxiv.org/abs/1204.4616)
@@ -178,9 +197,11 @@ The number after the name stands for the year in which the research paper was wr
 - [On the electrodynamics of moving bodies (1905)](http://hermes.ffn.ub.es/luisnavarro/nuevo_maletin/Einstein_1905_relativity.pdf)
 
 ## Programming languages
+
 - [Using closures for code generation](http://www.iro.umontreal.ca/%7Efeeley/papers/FeeleyLapalmeCL87.pdf)
 
 ## Programming
+
 - [Scripting: higher level programming for the 21st century](http://web.stanford.edu/~ouster/cgi-bin/papers/scripting.pdf)
 - [Notes on postmodern programming](http://www.mcs.vuw.ac.nz/comp/Publications/CS-TR-02-9.abs.html)
 - [Recursive make considered harmful](https://web.archive.org/web/20070205051133/http://members.canb.auug.org.au/~millerp/rmch/recu-make-cons-harm.html)
@@ -192,22 +213,28 @@ The number after the name stands for the year in which the research paper was wr
 - [The Purely Functional Software Deployment Model](https://nixos.org/%7Eeelco/pubs/phd-thesis.pdf)
 
 ## Psychedelics
+
 - [Crystal structure of an lsd-bound human serotonin receptor](http://www.cell.com/cell/fulltext/S0092-8674%2816%2931749-4)
 - [Towards a biophysical understanding of hallucinogen action (2007)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.688.8514&rep=rep1&type=pdf)
 
 ## Reverse engineering
+
 - [Reverse compilation techniques](https://yurichev.com/mirrors/DCC_decompilation_thesis.pdf)
 
 ## Security
+
 - [Some thoughts on security after ten years of qmail 1.0](http://cr.yp.to/qmail/qmailsec-20071101.pdf)
 
 ## Statistics
+
 - [Probabilistic machine learning and artificial intelligence](http://www.nature.com/nature/journal/v521/n7553/full/nature14541.html)
 
 ## System design
+
 - [Systems approaches to tackling configuration errors: a survey](http://opera.ucsd.edu/paper/csur15-survey.pdf)
 
 ## Type theory
+
 - [The Syntax and Semantics of Quantitative Type Theory (2018)](https://bentnib.org/quantitative-type-theory.html)
 - [Computational Higher Type Theory I: Abstract Cubical Realizability (2016)](https://arxiv.org/abs/1604.08873)
 - [Cubical Type Theory: a constructive interpretation of the univalence axiom (2016)](https://arxiv.org/abs/1611.02108)
@@ -217,15 +244,19 @@ The number after the name stands for the year in which the research paper was wr
 - [On the meanings of the logical constants and the justifications of the logical laws ](https://uberty.org/wp-content/uploads/2017/06/Martin-Lof83.pdf)
 
 ## Virtualization
+
 - [Virtual machine monitors: current technology and future trends](http://xenon.stanford.edu/%7Etalg/papers/COMPUTER05/virtual-future-computer05.pdf)
 
 ## Web
+
 - [Breaking the browser language barrier (2017)](http://plasma-umass.github.io/doppio-demo/paper.pdf)
 
 ## Other
+
 - [Tor: The Second-Generation Onion Router](https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf)
 
 ## Related
+
 - [arXiv](https://arxiv.org/)
 - [Papers we love](http://paperswelove.org/)
 - [arXiv sanity preserver](http://www.arxiv-sanity.com/)
@@ -238,5 +269,5 @@ The number after the name stands for the year in which the research paper was wr
 
 ---
 
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
