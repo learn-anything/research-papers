@@ -101,7 +101,7 @@ The number after the name stands for the year in which the research paper was wr
 
 ## Design
 
-- [Yond human abilities (20design )](https://dreamsongs.com/Files/DesignBeyondHumanAbilitiesSimp.pdf)
+- [Yond human abilities](https://dreamsongs.com/Files/DesignBeyondHumanAbilitiesSimp.pdf)
 
 ## Functional programming
 
