@@ -168,7 +168,7 @@ The number after the name stands for the year in which the research paper was wr
 
 - [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
 - [Learning without forgetting](https://arxiv.org/pdf/1606.09282.pdf)
-- [Neural turing machine](http://www.wikiwand.com/en/Neural_Turing_machine)
+- [Neural turing machine](http://en.wikipedia.org/wiki/Neural_Turing_machine)
 - [Densely connected convolutional networks](https://arxiv.org/abs/1608.06993)
 - [Overcoming catastrophic forgetting in neural networks](http://www.pnas.org/content/early/2017/03/13/1611835114.full.pdf)
 - [Pathnet: evolution channels gradient descent in super neural networks](https://arxiv.org/pdf/1701.08734.pdf)
