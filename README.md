@@ -166,6 +166,7 @@ The number after the name stands for the year in which the research paper was wr
 
 ## Neural networks
 
+- [Neural Ordinary Differential Equations (2018)](https://arxiv.org/abs/1806.07366)
 - [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
 - [Learning without forgetting](https://arxiv.org/pdf/1606.09282.pdf)
 - [Neural turing machine](http://en.wikipedia.org/wiki/Neural_Turing_machine)
