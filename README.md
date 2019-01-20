@@ -133,6 +133,7 @@ The number after the name stands for the year in which the research paper was wr
 ## Machine Learning
 
 - [AutoAugment: Learning Augmentation Policies from Data (2018)](https://arxiv.org/abs/1805.09501)
+- [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm (2017)](https://arxiv.org/abs/1712.01815)
 - [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial (2017)](https://arxiv.org/abs/1703.01619)
 - [Deep voice: real-time neural text-to-speech (2017)](https://arxiv.org/pdf/1702.07825.pdf)
 - [Dropout: a simple way to prevent neural networks from overfitting (2014)](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
