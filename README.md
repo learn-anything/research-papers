@@ -74,7 +74,7 @@ The number after the name stands for the year in which the research paper was wr
 - [Let’s go to the whiteboard: (2007)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/p557-cherubini.pdf)
 - [How and why software developers use drawings](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/p557-cherubini.pdf)
 - [How complex systems fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)
-- [How to make ad-hoc polymorphism less add hoc](https://people.csail.mit.edu/dnj/teaching/6898/papers/wadler88.pdf)
+- [How to make ad-hoc polymorphism less ad hoc](https://people.csail.mit.edu/dnj/teaching/6898/papers/wadler88.pdf)
 - [Challenges to adopting stronger consistency at scale](http://www-bcf.usc.edu/~wyattllo/papers/challenges-hotos15.pdf)
 - [Naked objects](http://downloads.nakedobjects.net/resources/Pawson%20thesis.pdf)
 - [Three measurement problems](https://www.academia.edu/32885328/Three_measurement_problems)
