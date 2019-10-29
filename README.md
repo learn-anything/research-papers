@@ -5,9 +5,7 @@
 
 The number after the name stands for the year in which the research paper was written in. All research papers are put in their respective category and are sorted from oldest to newest.
 
----
-
-##### Contents
+#### Contents
 
 - [Artificial intelligence](#artificial-intelligence)
 - [Big Data](#big-data)
@@ -270,8 +268,6 @@ The number after the name stands for the year in which the research paper was wr
 - [Google Brain Team](https://research.google.com/teams/brain)
 - [Inspire](https://inspirehep.net)
 - [PLOS](https://www.plos.org)
-
----
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
