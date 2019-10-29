@@ -38,8 +38,6 @@ The number after the name stands for the year in which the research paper was wr
 - [Other](#other)
 - [Related](#related)
 
----
-
 ## Artificial intelligence
 
 - [Winner-take-all autoencoders](https://arxiv.org/pdf/1409.2752.pdf)
