@@ -1,6 +1,6 @@
 # Research papers [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 
-The number after the name stands for the year in which the research paper was written in. All research papers are put in their respective category and are sorted from oldest to newest.
+The number after the name stands for the year in which the research paper was written in. All research papers are put in their respective category and are sorted from newest to oldest.
 
 _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributing._
 
