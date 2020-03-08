@@ -223,6 +223,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## Security
 
 - [Some thoughts on security after ten years of qmail 1.0](http://cr.yp.to/qmail/qmailsec-20071101.pdf)
+- [Comparative Analysis of Machine-Learning IDS methodologies to detect DDOS (2019)](https://repository.stcloudstate.edu/msia_etds/91/)
 
 ## Statistics
 
